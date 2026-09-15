@@ -1,0 +1,11 @@
+{
+  "slug": "bundle-to-v1",
+  "name": "Bundle to V1",
+  "kind": "batch",
+  "description": "Model which multi-transaction bundles can collapse into one atomic 4 KiB transaction.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
