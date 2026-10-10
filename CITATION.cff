@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "bundle-to-v1"
+abstract: "Model which multi-transaction bundles can collapse into one atomic 4 KiB transaction."
+repository-code: "https://github.com/nirholas/bundle-to-v1"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
