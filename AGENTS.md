@@ -8,7 +8,7 @@ Model which multi-transaction bundles can collapse into one atomic 4 KiB transac
 
 - Source: https://github.com/nirholas/bundle-to-v1
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
